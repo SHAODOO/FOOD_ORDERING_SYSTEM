@@ -1,0 +1,17 @@
+1Nasi Goreng	12	0
+2ABC	3	49
+3Roti Telur	2	50
+4Burger(Ayam)	3	100
+5Burger(Lembu)	3	100
+6French Fries	5	100
+7Chicken Chop	10	100
+8Fried Chicken	10	100
+9Hotpot	8	100
+10IceCream	2	100
+11Milo	3	100
+12Tea	2	100
+13Rice	2	100
+14Juice	3	99
+15Tom Yam	4.6	100
+16Maggi sup	4	100
+17Maggi	2	2
