@@ -1,11 +1,4 @@
-/*
-CPT111 - Principles of Programming
-Assignment 2 - Food Ordering System
-
-Name: Ling Shao Doo
-Matri no: 153152
-Lecturer: Madam Maziani
-*/
+//Food Ordering System
 
 //hearder file
 #include <iostream>
